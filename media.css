@@ -1,0 +1,49 @@
+@media only screen and (min-width:200px) and (max-width:767px){
+    .logo h1{
+        position: relative;
+        left: 10px;
+        font-size: 35px;
+    }
+    .togg{
+        position: relative;
+        width: 50%;
+        top: 10px;
+        right: 7rem;
+    }
+    .checkbtn{
+        position: relative;
+    }
+    .checkbtn h2{
+        position: relative;
+        left: 80px;
+        top: 30px;
+        font-size: 20px;
+    }
+    .bar{
+        position: relative;
+        top: 10px;
+        font-size: 20px;
+        right: 20px;
+    }
+    ul{
+        position: fixed;
+        width: 50%;
+        height: 42rem;
+        top: 100px;
+        right: -100%;
+    
+    }
+    .navlink a{
+        position: relative;
+        top: 5px;
+        font-size: 15px;
+    }
+    .navlink li:hover .dropdown{
+        position: relative;
+        top: 2px;
+        left: 15px;
+        height: 230px;
+        width: 150px;
+        line-height: 1;
+    }
+}
